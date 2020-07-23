@@ -1,0 +1,9 @@
+.header {
+  height: 70px;
+  display: flex;
+}
+
+.pic {
+  margin-left: 50px;
+  margin-top: 10px;
+}
